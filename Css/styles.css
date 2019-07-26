@@ -7,7 +7,11 @@
     font-family: 'Cabin', sans-serif;
 }
 h1{
-    font-size: 40px;
+    font-size: 16px;
+}
+#p{
+    font-size: 10px;
+
 }
 #about{
     text-align: center;
@@ -29,6 +33,16 @@ h1{
     margin-left: 100px;
     margin-right: 100px;
     color: white;
+}
+#row{
+    text-align: center;
+}
+.ole{
+    text-align: center;
+}
+.ola{
+    text-align: center;
+    display: none;
 }
 .imag{
     margin-bottom: 18px;
