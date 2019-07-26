@@ -1,0 +1,53 @@
+#head{
+    background-image:url(../Images/h_img.jpg);
+    height: 800px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+#about{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#dive{
+    background-image:url(../Images/c_image.jpg);
+    height: 450px;
+    background-size: cover;
+}
+#seri{
+    background-image:url(../Images/s_image.jpg);
+    height: 350px;
+    background-size: cover;
+}
+.service{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+}
+.imag{
+    margin-bottom: 18px;
+    height: 200px;
+    width: 280px;
+}
+#social {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+.footer {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 11px;
+  }
