@@ -77,6 +77,12 @@ h2{
     margin-bottom: 18px;
     height: 200px;
     width: 280px;
+    position: relative;
+}
+.imaje{
+    position: absolute;
+    border-right-style: solid white;
+    border: 2px;
 }
 ::placeholder {
     color: white;

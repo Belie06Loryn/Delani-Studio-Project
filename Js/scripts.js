@@ -39,4 +39,16 @@ $("#p3").click(function(){
         }
     });
 });
+
+
+$(document).ready(function(){
+    $(".image").click(function(){
+        $(".imaje").toggle();
+        $(".image").hide();
+        $(".imaje").show();
+      });
+});
+
+
+
   
