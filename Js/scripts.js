@@ -1,3 +1,4 @@
+$(document).ready(function(){
 $(".img1").click(function(){
     $("#p1").toggle();
     $(".img1").hide();
@@ -28,11 +29,14 @@ $("#p3").click(function(){
     $("#p3").hide();
     $(".img3").show();
   });
+});
 
-
-  var name = document.getElementById("name").value;
-      var messaje = document.getElementById("mybutton").value;
-      {
-      alert(name + "We Have Reccieved Your Message!");
-      }
+  $(document).ready(function(){
+    $("#mybutton").click(function(messag){
+        var name = document.getElementById("name").value;
+        var messaje = document.getElementById("mybutton").value;{
+           alert(name +' '+ "We Have Recieved Your Message!");
+        }
+    });
+});
   
