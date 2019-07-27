@@ -1,10 +1,10 @@
-# 
-#### 
+# Delani Studio
+#### Where you can Send us message in order to work with us, july 26 2019
 #### By MANIRAKORA Alexie
 ### Author
 https://github.com/Belie06Loryn
 ## Description
-
+This is a website that helps you to get some people to build you a website for your company. 
 ## Setup/Installation Requirements
 * GitHub Account
 * Terminal or CMD in Windows PC
@@ -12,12 +12,14 @@ https://github.com/Belie06Loryn
 * Visual Studio Code 
 ## Project setup instructions
 To start using this project use the following commands:
-git clone 
+git clone https://github.com/Belie06Loryn/Delani-Studio-Project.git
 code . [//]:  (this is if Visual Studio Code is your preferred text editor)
 ### BDD
-Story: Find your Akan name
-
-
+Story: Send a Message
+** Input Name
+** Input Email
+* must be in email format
+** Text a message
 ## Known Bugs
 No Bugs
 ## Technologies Used
