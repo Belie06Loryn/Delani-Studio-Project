@@ -29,4 +29,10 @@ $("#p3").click(function(){
     $(".img3").show();
   });
 
+
+  var name = document.getElementById("name").value;
+      var messaje = document.getElementById("mybutton").value;
+      {
+      alert(name + "We Have Reccieved Your Message!");
+      }
   

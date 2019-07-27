@@ -7,7 +7,7 @@
     font-family: 'Cabin', sans-serif;
 }
 h1{
-    font-size: 16px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 #p{
     font-size: 10px;
@@ -34,6 +34,13 @@ h1{
     margin-right: 100px;
     color: white;
 }
+h2{
+    text-align: center;
+}
+.h2{
+    color: white;
+    text-align: center;
+}
 #row{
     text-align: center;
 }
@@ -49,6 +56,9 @@ h1{
     height: 200px;
     width: 280px;
 }
+::placeholder {
+    color: white;
+  }
 #social {
     position: static;
     left: 0;
