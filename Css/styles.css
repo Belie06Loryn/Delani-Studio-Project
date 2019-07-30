@@ -152,6 +152,19 @@ h2{
     width: 250px;
     text-align: center;
 }
+.imaje7 {
+    border: 5px solid white ;
+    position: absolute;
+    bottom: 7px;
+    margin-left: 7px;
+    right: 10px;
+    top: 10px;
+    background: rgba(0, 0, 0, 0.4);
+    color: #ffffff;
+    height: 170px;
+    width: 250px;
+    text-align: center;
+}
 /*end images hover*/
 ::placeholder {
     color: white;
