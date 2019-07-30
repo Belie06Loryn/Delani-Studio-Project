@@ -153,6 +153,7 @@ h2{
     text-align: center;
 }
 .imaje7 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
