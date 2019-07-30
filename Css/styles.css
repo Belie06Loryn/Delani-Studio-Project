@@ -75,6 +75,7 @@ h2{
 }
 /*Start images hover*/
 .imaje1 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
@@ -88,6 +89,7 @@ h2{
     text-align: center;
 }
 .imaje2 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
@@ -101,6 +103,7 @@ h2{
     text-align: center;
 }
 .imaje3 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
@@ -114,6 +117,7 @@ h2{
     text-align: center;
 }
 .imaje4 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
@@ -127,6 +131,7 @@ h2{
     text-align: center;
 }
 .imaje5 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
@@ -140,6 +145,7 @@ h2{
     text-align: center;
 }
 .imaje6 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
@@ -167,6 +173,7 @@ h2{
     text-align: center;
 }
 .imaje8 {
+    display: none;
     border: 5px solid white ;
     position: absolute;
     bottom: 7px;
