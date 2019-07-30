@@ -1,24 +1,18 @@
-
-  /* Extra small devices (phones, 600px and down) */
-  @media only screen and (max-width: 600px) {
-  }
-  
-  /* Small devices (portrait tablets and large phones, 600px and up) */
-  @media only screen and (min-width: 600px) {
-  }
-  
-  /* Medium devices (landscape tablets, 768px and up) */
-  @media only screen and (min-width: 768px) {
-
-  } 
-  
-  /* Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
-  } 
-  
-  /* Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
-  }
+   /*small devices */
+@media only screen and (max-width: 600px) {
+}
+  /* portrait tablets and large phones */
+@media only screen and (min-width: 600px) {
+} 
+  /* Medium devices */
+@media only screen and (min-width: 768px) {
+} 
+  /* Large devices */
+@media only screen and (min-width: 992px) {
+}  
+  /* Extra large devices */
+@media only screen and (min-width: 1200px) {
+}
 
 #head{
     background-image:url(../Images/h_img.jpg);
@@ -79,21 +73,27 @@ h2{
     width: 280px;
     position: relative;
 }
-.imaje{
+.imaje1 {
+    box-sizing: border-box;
+    border: 10px;
     position: absolute;
-    border-right-style: solid white;
-    border: 2px;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    height: 190px;
+    width: 270px;
 }
 ::placeholder {
     color: white;
-  }
+}
 #social {
     position: static;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-  }
+}
 .footer {
     position: static;
     left: 0;
@@ -102,4 +102,4 @@ h2{
     color:rgb(0, 0, 0);
     text-align: center;
     font-size: 11px;
-  }
+}
